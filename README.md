@@ -2,7 +2,7 @@
 
 Computer Networks (UE25CS243A) - Jackfruit mini project, topic 9.
 
-Team: Shriya Chakravarthy(PES1UG25CS502), Ashu Verma(PES1UG25CS), Sorosij Mitra(PES1UG25CS)
+Team: Shriya Chakravarthy, Ashu Verma, Sorosij Mitra
 
 ## Project status
 - **D1 (basic system, static SDN mode): complete and tested** - see "D1 test cases" below.
