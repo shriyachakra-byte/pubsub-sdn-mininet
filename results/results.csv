@@ -1,0 +1,9 @@
+scenario,mode,mean_ms,p95_ms,delivery,max_gap_s,rogue_ping_loss
+normal,static,24.8,38.88,1.0,0.09,
+normal,dynamic,23.78,37.04,1.0,0.1,
+congestion,static,11105.62,18031.28,1.0,18.13,
+congestion,dynamic,157.43,1278.26,1.0,1.78,
+link_failure,static,21.62,31.16,0.33,0.06,
+link_failure,dynamic,23.73,32.12,1.0,0.11,
+flood,static,38.02,114.41,1.0,0.21,0% packet loss
+flood,dynamic,24.6,49.18,1.0,0.11,100% packet loss
